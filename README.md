@@ -52,7 +52,7 @@ The project was undertaken within the framework of a boot camp hosted by Applied
 
 ## Skills Gained
 
-Throughout this project and bootcamp experience, I have honed several critical skills that are highly valuable in a professional setting:
+Throughout this project and bootcamp experience, I have gained several critical skills that are highly valuable in a professional setting:
 
 - Deep Learning: Gained hands-on experience in designing and training neural networks for image classification.
 - Machine Learning: Applied machine learning techniques to solve real-world problems.
